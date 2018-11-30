@@ -1,0 +1,4 @@
+%{"aten": {:hex, :aten, "0.5.0", "e3d625d763b0b077a802d642c37cf8159ab771aa5acd915e1939195a223d96a7", [:rebar3], [], "hexpm"},
+  "dep_from_git": {:git, "git@github.com:rabbitmq/ra.git", "071b633da0706be7d66d9e032622f0839af05a63", [branch: "master"]},
+  "gen_batch_server": {:hex, :gen_batch_server, "0.5.1", "b7fd357ce7be5d200e000cceb5fb661cfda63572e1990ad075a55b223091bf7f", [:rebar3], [], "hexpm"},
+  "ra": {:git, "git@github.com:rabbitmq/ra.git", "071b633da0706be7d66d9e032622f0839af05a63", [branch: "master"]}}
